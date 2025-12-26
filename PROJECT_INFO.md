@@ -16,3 +16,4 @@ See ACHIEVEMENT_GUIDE.md for more information.
 # Update 3
 # Update 4
 # Update 5
+# Update 6
